@@ -1,2 +1,1 @@
-# helloSBAWS
-Spring Boot Applicaiton for AWS
+# Hello World Spring Boot
